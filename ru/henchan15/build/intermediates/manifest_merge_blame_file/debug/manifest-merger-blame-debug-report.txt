@@ -1,0 +1,38 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="eu.kanade.tachiyomi.extension.ru.henchan15"
+4    android:versionCode="19"
+5    android:versionName="6.19" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml
+10
+11    <uses-feature android:name="tachiyomi.extension" />
+11-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml:5:5-56
+11-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml:5:19-53
+12
+13    <application
+14        android:allowBackup="false"
+14-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml:7:53-80
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml:7:18-52
+17        android:label="Tachiyomi: henchan15"
+17-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml:7:81-107
+18        android:testOnly="true" >
+19        <meta-data
+20            android:name="tachiyomi.extension.class"
+20-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml:9:20-60
+21            android:value=".henchan15" />
+21-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml:9:61-88
+22        <meta-data
+23            android:name="tachiyomi.extension.nsfw"
+23-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml:10:20-59
+24            android:value="1" />
+24-->C:\Users\forsu\tachiyomi-extensions\AndroidManifest.xml:10:60-83
+25    </application>
+26
+27</manifest>

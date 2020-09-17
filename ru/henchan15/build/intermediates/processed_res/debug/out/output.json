@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "eu.kanade.tachiyomi.extension.ru.henchan15",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 19,
+        "versionName": "6.19",
+        "outputFile": "tachiyomi-ru.henchan15-v6.19-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "resources-debug.ap_",
+      "properties": {
+        "packageId": "eu.kanade.tachiyomi.extension.ru.henchan15",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}

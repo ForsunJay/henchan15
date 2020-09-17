@@ -1,0 +1,2 @@
+eu.kanade.tachiyomi.extension.ru.henchan15
+mipmap ic_launcher
